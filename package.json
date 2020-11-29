@@ -1,0 +1,8 @@
+{
+  "name": "multi-line-ellipsis",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "index.js",
+  "repository": "git@github.com:aFatFlyingCat/multi-line-ellipsis.git",
+  "license": "MIT"
+}
